@@ -1,0 +1,8 @@
+.all-link a {
+    margin-left: 20px;
+}
+
+.all-link .active{
+    color: red;
+    text-decoration: underline;
+}
